@@ -1,0 +1,14 @@
+{
+  "name": "hms-sdk-impl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "hms-core-sdk": "github:ShivamTiwariCodes/hms-core-sdk"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

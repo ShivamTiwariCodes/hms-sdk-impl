@@ -1,0 +1,5 @@
+// import { IUser}
+
+const getAppointmentService = () => {
+
+}
