@@ -1,2 +1,2 @@
 # hms-sdk-impl
-This is implementation of hms-core-sdk 
+## Steps to create sdk implementation like this
